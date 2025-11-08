@@ -1,0 +1,16 @@
+Vagabond is a pulp fantasy ttrpg made by Indestructoboy. This game promises a rules-light system that runs itself with a unique resolution mechanic, a customizable magic system to shape spells into unique (and devastating) options as well as a perk system allowing every player to create a character that feels truly theirs and unique. On top of this, Vagabond is said to be completely compatible with any old school modules. The game mentions in its appendix a plethora of documents used for play testing, including the two volumes of Old School Essentials Adventure Anthology by Necrotic Gnome. 
+
+Vagabond has a very enticing premise making it a very easy game to want to dive into. Reading through the game feels like being able to create a super heroic character (much in the like of any 5th edition dragon game) while keeping simpler math and procedures inspired by the OSR community. I wanted to put this game to the test. To test the compatibility with other systems (as advertised by Vagabond), I tested the game with "Cursed Scroll 1: Diableries !" from the Arcane Library, which is a Shadowdark compatible zine. The party of four characters included an Alchemist, a Wizard, a Revelator and a Barbarian. After playing this campaign, my thought on the system is that Vagabond is a system that tries to do too much, while not achieving a radically different feeling than other d20 fantasy dragon games out there. Trying to do too much is really what ended up hurting the system for me, and not wanting to touch it again.
+## Core rules and resolution mechanics
+Vagabond characters have 6 stats: Might, Dexterity, Awareness, Reason, Presence and Luck. These stats are used to compute your skills. In Vagabond, each skill is associated with a stat.
+
+Vagabond takes a page out of the roll under systems such as Cairn, Dragonbane or Old Schools Essentials, but adds its own unique spin to it. In this game, all of your skills represent a difficulty associated with a specific check. This means that to succeed on a skill check, you need to roll **over** your skill's difficulty in order to succeed. 
+
+You obtain your skill difficulty with the following formula: 20 - stat = skill difficulty. All class come with skill they are trained in. In that case, you would double the stat value for this specific skill. For instance, a Barbarian trained in the Brawl skill  and a Might stat of 7 would have a Brawl difficulty of 13 (obtained by doing 20 - 7 x 2). If that same Barbarian has a Reason of 3, he would have a 17 difficulty in Arcana (20 - 3).
+
+For combat, Vagabond is inspired out of Mörk Börg and all of its offspring. Initiative is side-based, ennemies don't roll to hit, heroes roll to defend themselves. The defense skills are computed much like the skills and each have situations in which they shine best. Damage taken is then decreased by the armor the character (or monster) wears, before being reduced from their hit points.
+
+The magic system of Vagabond is ...
+
+## Rules light ? 
+All of this looks good on paper, but Vagabond spares no words to write them.

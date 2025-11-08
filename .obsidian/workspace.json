@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "b23b7b23ab70e427",
+    "type": "split",
+    "children": [
+      {
+        "id": "95f139755cdeaa34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43f03ffb574aec17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Règles de base.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Règles de base"
+            }
+          },
+          {
+            "id": "faf74ff83c869fd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Création de personnage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Création de personnage"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf9f2d7df7e52e89",
+    "type": "split",
+    "children": [
+      {
+        "id": "280200440b71ec57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d125beaeec9f78e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a37cd563a6272ca6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b8c7a51bc050c7e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 312.5
+  },
+  "right": {
+    "id": "1119d657a180d838",
+    "type": "split",
+    "children": [
+      {
+        "id": "bee1f4555c689076",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57562fcc20cd1511",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Règles de base.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Règles de base"
+            }
+          },
+          {
+            "id": "2d2c7c97e68601df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Règles de base.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Règles de base"
+            }
+          },
+          {
+            "id": "de65df1b35d37692",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9f1985a27bc39199",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Règles de base.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Règles de base"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "faf74ff83c869fd6",
+  "lastOpenFiles": [
+    "Objets et équipement.md",
+    "Règles de base.md",
+    "Création de personnage.md",
+    "Bestiaire.md",
+    "A critique of Vagabond.md",
+    "TATATA c'est.md"
+  ]
+}
