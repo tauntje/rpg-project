@@ -13,10 +13,11 @@ Les héros ont quatre attributs.
 - Il est ensuite possible de rajouter un point à un attribut au prix de deux points d'un autre attribut. Cette opération peut être répétée 4 fois.
 
 ### CHANCE
-Chaque héros commence avec un point de CHANCE (CHA). La CHA permet d'ignorer le
-résultat d'un dé, réussir automatiquement un test, ou d'ignorer les
-conséquences négatives d'un événement tel qu'une attaque, un piège, ou un
-plongeon dans un volcan en éruption.
+Chaque héros commence avec un point de CHANCE (CHA). La CHA permet de :
+- relancer n'importe quel dé
+- obtenir un bonus temporaire de +5 à un attribut
+- d'ignorer les conséquences négatives de dégâts subis
+
 ## Ascendance
 ### Elfe.
 Les Elfes incarnent la grâce et l'élégance même. Naturellement liés à la magie,
@@ -87,7 +88,7 @@ Une vie ordinaire n'était pas pour vous. Vous n'auriez jamais pu gagner votre v
 - Matraque de bois (improvisée, d6)
 - Crochets
 - Vêtements sombres et capuche
-Aucune serrure mécanique ne vous résiste si vous disposez d'assez de temps et de crochets.
+Aucune serrure mécanique ne vous résiste si vous disposez d'assez de temps (10 minutes) et de crochets.
 
 #### 2. Assassin        
 Équipement de départ :
@@ -101,7 +102,7 @@ Vous trouvez facilement des contacts avec le monde du crime dans les grandes vil
 - Trousse de maquillage
 - Vêtements distingués
 - Matériel de calligraphie
-Avec assez de temps, vous pouvez vous faire passer pour quelqu'un d'une stature similaire à la vôtre, ou imiter un document officiel.
+Avec assez de temps (une garde), vous pouvez vous faire passer pour quelqu'un d'une stature similaire à la vôtre, ou imiter un document officiel.
 
 #### 4 Saboteur        
 Équipement de départ :
@@ -167,14 +168,26 @@ Votre magie provient de (d6) :
 - Choisissez une école de magie parmi : 
 
 ### Guerrier
-Vous avez combattu vos plus grandes batailles en tant que :
+Lors de vos plus grand faits d'armes, vous étiez :
+
 #### 1. Archer
+Équipement de départ :
+- Arc (1d8)
+- 2 dagues (1d8)
+- Grappin
+Vous attaquez toujours en premier si vous commencez un combat à distance.
+
 #### 2. Artificier
+Équipement de départ :
+- Marteau et tournevis
+- Gants chargés (insufflés d'une rune électrique, 1d6)
+- Armure en métal (2A)
+Les assemblages et autres outils animés par la magie n'ont pas de secrets pour vous.
 
 #### 3. Barbare
 Équipement de départ :
 - Hache à deux mains (3d8, encombrante)
-- Tenue de fourrure et de peaux
+- Viande séchée
 - Bolas (3 d6, portée moyenne)
 Vous récupérez toujours un point de force lorsque vous dormez à la belle étoile.
 
@@ -187,8 +200,10 @@ Vous êtes connu dans les villages du royaume et l'hospitalité vous est toujour
 
 #### 5. Mercenaire
 Équipement de départ : 
-- vous portez une gigantesque arme dans votre dos (3d8 encombrante), et la légende dit que vous auriez tué 100 hommes en une bataille.
-Vous avez combattu dans de nombreuses contrées et pouvez parler de manière rudimentaire en toute langue étrangère.
+- Une gigantesque arme dans votre dos (3d8 encombrante)
+- Trois couteaux de lancer (1d6)
+- Armure en cuir (1A)
+Vous avez combattu dans de nombreuses contrées et pouvez parler de manière rudimentaire toute langue étrangère.
 
 #### 6. Paladin
 Équipement de départ : 
@@ -210,14 +225,40 @@ Avec assez de temps (une garde), vous pouvez analyser et identifier tous types
 de potions.
 
 ####  2  Barde     
+Équipement de départ :
+- Instrument de musique (votre choix)
+- Vêtements distingués
+- Arbalète (1d8)
+Vous excellez dans tout ce qui requiert la lecture à haute voix, le chant, la danse, ou la diplomatie.
 
 ####  3  Chasseur  
+Équipement de départ :
+- Piège à ours (1d12 si tendu)
+- Arc (1d8)
+- Armure de cuir (1A)
+Vous reconnaissez les cris, les traces et le pelage de toute bête vivant en forêt ou en montagne.
 
 ####  4  Chirurgien
+Équipement de départ :
+- Bandages
+- 3 Potions de soin 
+- Ciseaux (1d6) 
+Avec assez de temps (10 minutes), les soins que vous prodiguez restaurent la quantité maximale du dé.
 
 ####  5  Forgeron  
+Équipement de départ :
+- Marteau de forge (1d6)
+- Pince à métal
+- Objet forgé précieux (votre choix)
+Avec du temps (une garde) et l'accès à une forge, vous pouvez créer n'importe quel objet ordinaire de la taille de votre bras.
 
 ####  6  Marchand  
+Équipement de départ :
+- Grand sac (+2 emplacement d'inventaire)
+- Arbalète (1d8)
+- Une potion aléatoire (voir alchimie)
+- Votre dernière trouvaille (votre choix)
+Vous avez déjà fait affaire dans la plus grande ville du royaume et savez où les meilleurs clients se situent.
 
 ## TALENTS
 
