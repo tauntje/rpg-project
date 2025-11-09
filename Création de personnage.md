@@ -74,104 +74,122 @@ connaissez l'odeur si elle est à moins de deux jours de marche de vous.
 
 ### Félixe.
 Peu d'ascendances sont aussi fières que celle des Félixes. La première fois que
-l'on pense en avoir touché un n'est jamais la bonne. Une chance légendaire
-semble les suivre. En tant que Félixe, vous pouvez décider quel attribut subira
-les premiers dégâts critiques de toute rencontre.
+l'on pense en avoir touché un en combat n'est jamais la bonne. En tant que
+Félixe, vous pouvez décider quel attribut subira les premiers dégâts critiques
+de toute rencontre.
 
 ## Passés
 ### Malfrat
 Une vie ordinaire n'était pas pour vous. Vous n'auriez jamais pu gagner votre vie honnêtement, quand il existe tant d'autres manières créatives de s'enrichir ! La vie ne vaudrait pas la peine d'être vécue sans un petit frisson de risque. Vos méfaits vous ont donné le titre de :
+
 #### 1. Cambrioleur     
 Équipement de départ :
 - Matraque de bois (improvisée, d6)
 - Crochets
 - Vêtements sombres et capuche
 Aucune serrure mécanique ne vous résiste si vous disposez d'assez de temps et de crochets.
+
 #### 2. Assassin        
 Équipement de départ :
 - Deux lames (d8)
 - Armure de cuir (+1 armure)
 - Poison paralysant (cible ne peut ni bouger ou attaquer pendant 1d4 rounds) ou nécrosant (3 dégâts pendant 1d4 rounds)
 Vous trouvez facilement des contacts avec le monde du crime dans les grandes villes.
+
 #### 3 Faussaire       
 Équipement de départ :
 - Trousse de maquillage
 - Vêtements distingués
 - Matériel de calligraphie
 Avec assez de temps, vous pouvez vous faire passer pour quelqu'un d'une stature similaire à la vôtre, ou imiter un document officiel.
+
 #### 4 Saboteur        
 Équipement de départ :
 - Masse d'arme (lourde, 2d8)
 - Armure de fer improvisée (+2 armure)
 - 1d4 Grenade (explosif, 1d12)
 Vous avez une connaissance approfondie des armes de sièges ainsi que des points faibles de tout bâtiment.
+
 #### 5 Pirate          
 Équipement de départ :
 - Sabre (1d8)
 - Tenue en tissu dépareillés, chapeau tricorne
 - Pistolet à silex (1 / rencontre, 2d8)
 Vous ne pouvez pas vous perdre en mer ou si le ciel est dégagé.
+
 #### 6 Contrebandier   
 Équipement de départ :
 - Arbalète (d8)
 - Armure de cuir (+1 armure)
 - Une monture pouvant porter 6 objets
 Vous repérez facilement s'il y a un marché noir dans une ville ou un village. 
+
 ### Conjurateur
 Un claquement de vos doigt produit plus de merveilles que ce qu'un citoyen
 ordinaire ne pourrait voir en une vie. Vous naviguez délicatement le long
 chemin de la vie d'un conjurateur. Votre magie vous emportera-t-elle dans son
 torrent de puissance ?
 Votre magie provient de (d6) :
+
 #### 1. Une entité mystérieuse avec laquelle vous avez conclu un pacte
 - Est-ce un ange, un démon ou un être que le temps a préféré oublier ?
 Équipement de départ : 
 - Choisissez une école de magie
 - Armure de de fer (+2 armure)
 - Dague portant le sceau de votre entité (d8)
+
 #### 2. De votre foi et d'un don fait par votre divinité
 - Qui vénérez-vous ? Quel est le symbole de votre divinité ? Que représente-t-elle pour vous ? |
 Équipement de départ : 
 - Choisissez une école de magie parmi : sacrée ou impie
 - Tenue de cérémonie
 - Masse de bois (d8)
+
 #### 3. D'une étude approfondie auprès d'un mentor
 - Où l'avez-vous trouvé ? Est-il toujours en vie ? Comment vous-a-t-il enseigné ? 
 Équipement de départ : 
 - 
 - Choisissez une école de magie parmi : 
+
 #### 4. La magie coule dans vos veines
 - Quelles sont vos origines ? Comment la magie s'est-elle manifestée la première fois ? Êtes vous le seul de votre généalogie à avoir ces pouvoirs ? |
 - Équipement de départ : 
 - Choisissez une école de magie parmi : 
+
 #### 5. De la nature et de la puissance sauvage. 
 - De quel environnement tirez-vous vos pouvoirs ? Faites-vous partie d'un cercle ? Est-ce que l'équilibre de la nature influence votre puissance ?
 - Équipement de départ : 
 - Choisissez une école de magie parmi : 
+
 #### 6 Des esprits et des âmes perdues. 
 - Les voyez-vous au quotidien ? Comment vous offrent-elle vos pouvoirs ? Êtes-vous un membre du royaume des morts ?
 - Équipement de départ : 
 - Choisissez une école de magie parmi : 
+
 ### Guerrier
 Vous avez combattu vos plus grandes batailles en tant que :
 #### 1. Archer
 #### 2. Artificier
+
 #### 3. Barbare
 Équipement de départ :
 - Hache à deux mains (3d8, encombrante)
 - Tenue de fourrure et de peaux
 - Bolas (3 d6, portée moyenne)
 Vous récupérez toujours un point de force lorsque vous dormez à la belle étoile.
+
 #### 4. Chevalier
 Équipement de départ : 
 - Épée à une main (d8) 
 - Bouclier (1A)
 - Armure décorée du blason de votre maison (1A).
 Vous êtes connu dans les villages du royaume et l'hospitalité vous est toujours offerte pour une nuit.
+
 #### 5. Mercenaire
 Équipement de départ : 
 - vous portez une gigantesque arme dans votre dos (3d8 encombrante), et la légende dit que vous auriez tué 100 hommes en une bataille.
 Vous avez combattu dans de nombreuses contrées et pouvez parler de manière rudimentaire en toute langue étrangère.
+
 #### 6. Paladin
 Équipement de départ : 
 - Masse d'arme (3d8, encombrante)
@@ -182,18 +200,23 @@ sont magiques et ignorent l'armure ennemie.
 
 ### Spécialiste
 Vous exerciez votre métier et vos arts dans la profession suivante :
+
 ####  1  Alchimiste
 Équipement de départ : 
 - Kit d'alchimie
 - Dague (d8)
 - Tenue de cuir (1A) tachée et brûlée
-Avec assez de temps (une garde), vous pouvez analyser et identifier tout types
+Avec assez de temps (une garde), vous pouvez analyser et identifier tous types
 de potions.
 
 ####  2  Barde     
+
 ####  3  Chasseur  
+
 ####  4  Chirurgien
+
 ####  5  Forgeron  
+
 ####  6  Marchand  
 
 ## TALENTS
