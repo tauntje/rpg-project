@@ -173,11 +173,11 @@ contient.
 ## Alchimie
 Un héros équipé de matériel d'alchimiste peut créer une potion d'une des manières suivantes :
 - Lors d'une garde de repos, avec les moyens du bord vous pouvez lancer 2d6
-afin de déterminer la concoction que vous arrivez à créer en deux exemplaires
+afin de déterminer la concoctions que vous arrivez à créer en deux exemplaires
 ce jour. 
 - Lors d'une garde de repos, avec les moyens du bord choisissez un effet ou une
 administration. Lancez ensuite 1d6 pour déterminer l'autre partie de la
-concoction. Vous créez un exemplaire de cet objet
+concoctions. Vous créez un exemplaire de cet objet
 - Lors d'une garde de repos lieu bien fourni ou un laboratoire, vous pouvez
 créer 1d4 potions avec les effets de votre choix.
 

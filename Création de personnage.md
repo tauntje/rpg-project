@@ -11,6 +11,7 @@ Les héros ont quatre attributs.
 - Chaque attribut commence à 10.
 - Chaque héros obtient 4 points supplémentaires à répartir entre FOX, AGI, VOL et END.
 - Il est ensuite possible de rajouter un point à un attribut au prix de deux points d'un autre attribut. Cette opération peut être répétée 4 fois.
+
 ### CHANCE
 Chaque héros commence avec un point de CHANCE (CHA). La CHA permet d'ignorer le
 résultat d'un dé, réussir automatiquement un test, ou d'ignorer les
@@ -18,25 +19,64 @@ conséquences négatives d'un événement tel qu'une attaque, un piège, ou un
 plongeon dans un volcan en éruption.
 ## Ascendance
 ### Elfe.
-Les Elfes incarnent la grâce et l'élégance même. Naturellement liés à la magie, ils sont aussi redoutables sur un champ de bataille que dans une cour de conseillers.
-En tant qu'Elfe, vous effectue tout tests liés à la vue avec avantage, et vous connaissez un sort sous une forme de votre choix. 
+Les Elfes incarnent la grâce et l'élégance même. Naturellement liés à la magie,
+ils sont aussi redoutables sur un champ de bataille que dans une cour de
+conseillers. En tant qu'Elfe, vous effectue tout tests liés à la vue avec
+avantage, et vous connaissez un sort sous une forme de votre choix. 
+
 ### Humain.
-Les Humains sont l'ascendance la plus commune du royaume. Leurs ambitions sont seulement à la hauteur de leur adaptabilité. En tant qu'Humain, vous pouvez choisir avec quel attribut vous effectuez un test 1 / jour.
+Les Humains sont l'ascendance la plus commune du royaume. Leurs ambitions sont
+seulement à la hauteur de leur adaptabilité. En tant qu'Humain, vous pouvez
+choisir avec quel attribut vous effectuez un test 1 / jour.
+
 ### Nain.
-Les Nains vivent en communauté où ils perfectionnent leur artisanat du métal et de la pierre. La cuisine naine est mère des meilleures et des pires breuvages qu'un être puisse imaginer. En tant que Nain, vous résistez aux poisons et à l'alcool avec avantage, et obtenez +1 FOR.
+Les Nains vivent en communauté où ils perfectionnent leur artisanat du métal et
+de la pierre. La cuisine naine est mère des meilleures et des pires breuvages
+qu'un être puisse imaginer. En tant que Nain, vous résistez aux poisons et à
+l'alcool avec avantage, et obtenez +1 FOR.
+
 ### Halfelin.
-Malins, et gourmands, les Halfelin apprécient particulièrement le confort de la vie quotidienne. Mais il ne faut pas les sous-estimer : peu de peuples ont autant de ressource et de courage qu'eux. En tant qu'Halfelin, vous pouvez réussir un test pour passer inaperçu une fois par jour.
+Malins, et gourmands, Halfelin apprécient particulièrement le confort de la
+vie quotidienne. Mais il ne faut pas les sous-estimer : peu de peuples ont
+autant de ressource et de courage qu'eux. En tant qu'Halfelin, vous pouvez
+réussir un test pour passer inaperçu une fois par jour.
+
 ### Orc.
-Les Orcs sont des être nomades et colossaux qui valorisent l'honneur et la puissance, peu importe son origine. En tant qu'Orc, vous pouvez vous équiper d'un objet encombrant comme s'il s'agissait d'un objet normal.
+Les Orcs sont des être nomades et colossaux qui valorisent l'honneur et la
+puissance, peu importe son origine. En tant qu'Orc, vous pouvez vous équiper
+d'un objet encombrant comme s'il s'agissait d'un objet normal.
+
 ### Sangdragon.
-Les Sangdragons forment un peuple qui a vu le jour suite à une expérience magique qui a mal tourné. Apparentés aux dragons, ils effraient parfois les âmes sensibles. En tant que Sangdragon, vous pouvez utiliser votre souffle afin d'effectuer une attaque explosive. Vous subissez le montant de dégâts infligés le plus élevé en FOR.
+Les Sangdragons forment un peuple qui a vu le jour suite à une expérience
+magique qui a mal tourné. Apparentés aux dragons, ils effraient parfois les âmes
+sensibles. En tant que Sangdragon, vous pouvez utiliser votre souffle afin
+d'effectuer une attaque explosive. Vous subissez le montant de dégâts infligés
+le plus élevé en FOR.
+
 ### Fiélon.
-Les Fiélons ont brisé leur allégeance aux enfers **et** on réussi à en sortir. Cet exploit seul suffit pour comprendre qu'il s'agit d'un peuple qui n'abandonnera jamais face à l'adversité. En tant que Fiélon, tous les dégâts de feu que vous subissez sont diminués.
+Les Fiélons ont brisé leur allégeance aux enfers **et** on réussi à en sortir.
+Cet exploit seul suffit pour comprendre qu'il s'agit d'un peuple qui
+n'abandonnera jamais face à l'adversité. En tant que Fiélon, tous les dégâts de
+feu que vous subissez sont diminués.
+
 ### Caulvaire.
-Les Caulvaires ont mauvais caractère et vivent reclus dans les cimes dans forêts les plus reculées. Obtenir la confiance d'une tribu Caulvaire est un cadeau aussi rare qu'inestimable. Obtenir leur colère est monnaie bien plus courante. En tant que Caulvaire, vous pouvez planer jusqu'à loin si vous ne portez pas d'armure.
+Les Caulvaires ont mauvais caractère et vivent reclus dans les cimes dans forêts
+les plus reculées. Obtenir la confiance d'une tribu Caulvaire est un cadeau
+aussi rare qu'inestimable. Obtenir leur colère est monnaie bien plus courante.
+En tant que Caulvaire, vous pouvez planer jusqu'à loin si vous ne portez pas
+d'armure.
+
 ### Lupin.
-Peut traquer une cible dont il connaît l'odeur si elle se trouve à moins d'un jour de marche.
-### Félixe
+La légende raconte que les premiers Lupins sont d'anciens Lycanthropes ayant
+transcendé leur malédiction et accepté leur nouvelle forme. En tant que Lupin,
+votre odorat est surpuissant, et vous pouvez traquer une cible dont vous
+connaissez l'odeur si elle est à moins de deux jours de marche de vous.
+
+### Félixe.
+Peu d'ascendances sont aussi fières que celle des Félixes. La première fois que
+l'on pense en avoir touché un n'est jamais la bonne. Une chance légendaire
+semble les suivre. En tant que Félixe, vous pouvez décider quel attribut subira
+les premiers dégâts critiques de toute rencontre.
 
 ## Passés
 ### Malfrat
@@ -133,11 +173,23 @@ Vous êtes connu dans les villages du royaume et l'hospitalité vous est toujour
 - vous portez une gigantesque arme dans votre dos (3d8 encombrante), et la légende dit que vous auriez tué 100 hommes en une bataille.
 Vous avez combattu dans de nombreuses contrées et pouvez parler de manière rudimentaire en toute langue étrangère.
 #### 6. Paladin
+Équipement de départ : 
+- Masse d'arme (3d8, encombrante)
+- Un écrit contenant votre serment (arrangez-vous avec le MJ)
+- Un fidèle destrier
+Tant que vous maintenez le serment que vous avez prêté, les dégâts de votre arme
+sont magiques et ignorent l'armure ennemie.
 
 ### Spécialiste
-
 Vous exerciez votre métier et vos arts dans la profession suivante :
 ####  1  Alchimiste
+Équipement de départ : 
+- Kit d'alchimie
+- Dague (d8)
+- Tenue de cuir (1A) tachée et brûlée
+Avec assez de temps (une garde), vous pouvez analyser et identifier tout types
+de potions.
+
 ####  2  Barde     
 ####  3  Chasseur  
 ####  4  Chirurgien
