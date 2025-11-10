@@ -133,29 +133,32 @@ torrent de puissance ?
 Votre magie provient de (d6) :
 
 #### 1. Une entité mystérieuse avec laquelle vous avez conclu un pacte
-- Est-ce un ange, un démon ou un être que le temps a préféré oublier ?
 Équipement de départ : 
-- Choisissez une école de magie
-- Armure de de fer (+2 armure)
-- Dague portant le sceau de votre entité (d8)
+- Choisissez une école de magie, vos sorts sont des tatouages ou des cicatrices sur votre corps
+- Armure de de fer (+2A)
+- Symbole de votre entité (au choix)
+Ceux qui ont conclu des pactes similaires au vôtre sont considérés comme maudits
+et recherchés par de nombreux chasseurs de prime.
 
 #### 2. De votre foi et d'un don fait par votre divinité
-- Qui vénérez-vous ? Quel est le symbole de votre divinité ? Que représente-t-elle pour vous ? |
 Équipement de départ : 
 - Choisissez une école de magie parmi : sacrée ou impie
-- Tenue de cérémonie
 - Masse de bois (d8)
+- Tenue de cérémonie
+Vous êtes toujours accueilli par ceux qui partagent votre foi. Vous obtenez la
+sympathie d'autres êtres éclésiastiques.
 
 #### 3. D'une étude approfondie auprès d'un mentor
 - Où l'avez-vous trouvé ? Est-il toujours en vie ? Comment vous-a-t-il enseigné ? 
 Équipement de départ : 
+- Choisissez une école de magie parmi  
 - 
-- Choisissez une école de magie parmi : 
 
 #### 4. La magie coule dans vos veines
-- Quelles sont vos origines ? Comment la magie s'est-elle manifestée la première fois ? Êtes vous le seul de votre généalogie à avoir ces pouvoirs ? |
 - Équipement de départ : 
 - Choisissez une école de magie parmi : 
+Quelles sont vos origines ? Comment la magie s'est-elle manifestée la première
+fois ? Êtes vous le seul de votre généalogie à avoir ces pouvoirs ? |
 
 #### 5. De la nature et de la puissance sauvage. 
 - De quel environnement tirez-vous vos pouvoirs ? Faites-vous partie d'un cercle ? Est-ce que l'équilibre de la nature influence votre puissance ?
@@ -284,6 +287,8 @@ Vous avez déjà fait affaire dans la plus grande ville du royaume et savez où 
 | 18   | Mémoire photographique         |
 | 19   | Lecteur assidu                 |
 | 20   | Coureur infatigable            |
+
+
 ## Exploits
 Ces techniques différencient les héros du commun des mortels. Elles peuvent êtres activées au prix d'une action ou représentent un bonus passif propre à votre héros. Lorsque vous utilisez un exploit ou que vous bénéficiez de ses effets, vous devez effectuer un test de la statistique liée à
 l'exploit. Si vous échouez, vous ne pouvez plus utiliser cet exploit jusqu'à ce que vous vous

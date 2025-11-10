@@ -133,7 +133,6 @@ dans leurs propres flammes ou avalé par les ombres qu'ils invoquaient.
 | 5   | Sacrée         |
 | 6   | Sauvage        |
 
-
 ### Lancer un sort
 Il faut décider de la forme du sort et lancer un nombre de dés allant de un à
 trois. Lancer plus d'un dé avec un sort *amplifie* le sort. Chaque résultat de
@@ -173,50 +172,14 @@ magique. Vous pouvez :
 - Faire croire à un être qu'il est votre ami pendant [MIN] rounds. Vous pouvez
   lui donner [NOMBRE] ordres amicaux.
 
-#### Impie
-Vous pouvez faire voir ou entendre des choses qui ne sont pas vraiment là. Un
-être qui examine minutieusement votre illusion comprend que son origine est
-magique. Vous pouvez :
-- Faire entendre à [MAX] êtres un bruit de votre choix situé à [NOMBRE]
-  mètres au plus.
-- Faire voir à [MAX] êtres un objet ou un être pendant [NOMBRE] rounds.
-- Faire croire à un être qu'il est votre ami pendant [MIN] rounds. Vous pouvez
-  lui donner [NOMBRE] ordres amicaux.
-
-#### Ombres
-Vous pouvez faire voir ou entendre des choses qui ne sont pas vraiment là. Un
-être qui examine minutieusement votre illusion comprend que son origine est
-magique. Vous pouvez :
-- Faire entendre à [MAX] êtres un bruit de votre choix situé à [NOMBRE]
-  mètres au plus.
-- Faire voir à [MAX] êtres un objet ou un être pendant [NOMBRE] rounds.
-- Faire croire à un être qu'il est votre ami pendant [MIN] rounds. Vous pouvez
-  lui donner [NOMBRE] ordres amicaux.
-
-#### Sacrée
-Vous pouvez faire voir ou entendre des choses qui ne sont pas vraiment là. Un
-être qui examine minutieusement votre illusion comprend que son origine est
-magique. Vous pouvez :
-- Faire entendre à [MAX] êtres un bruit de votre choix situé à [NOMBRE]
-  mètres au plus.
-- Faire voir à [MAX] êtres un objet ou un être pendant [NOMBRE] rounds.
-- Faire croire à un être qu'il est votre ami pendant [MIN] rounds. Vous pouvez
-  lui donner [NOMBRE] ordres amicaux.
-
-#### Sauvage
-Vous pouvez vous transformer en un animal de votre choix, ou conjurer la
-puissance de la nature pour vous assister.
-- Modifier la météo pendant [NOMBRE] heures
-- Devenir un animal de [MAX] END pouvant inflige [NOMBRE] d6 de dégâts.
-- Conjurer une aura de pendant [NOMBRE] rounds qui inflige [MAX] dégâts à tout
-  être adjacent.
-
 #### Formes de sorts
 - Mur. D'une taille de [NOMBRE] mètres carrés (répartis à votre guise), [MAX]
   END et [MAX] dégâts (si applicable).
 - Trait. Touche [NOMBRE] de cibles pour [MAX] dégâts.
 - Sphère. Touche [NOMBRE] cibles adjacentes pour [SOMME] dégâts.
 - Brouillard. Une zone inflige ou rend [MAX] END pendant [NOMBRE] tours.
+- Aura. Les être qui vous sont adjacents subissent [MAX] dégâts pendant [NOMBRE]
+  tours.
 - Toucher. Un être adjacent subit [SOMME] dégâts. 
 - Glyphe. Placé sur un sol ou un mur, reste actif [NOMBRE] heures et inflige
   soit [MAX] dégâts ou affecte [MAX] cibles.
