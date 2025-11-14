@@ -4,13 +4,16 @@ crochet à serrure,... Chaque héros commence l'aventure avec quatre fournitures
 DÉS DE MATÉRIAUX ??
 ## Armes
 - Improvisées. Pied de chaise, lance-pierre,... d6 peut importe le maniement.
-- Normales. d8 (2d8 si une dans chaque main).
-- Distances. d8 (d10 s'il vise la même cible qu'au round précédent).
-- Lourdes. (encombrantes): 2d8 (3d8 si n'a pas bougé lors de son dernier tour)
+- Normales. d6 (2d6 si une dans chaque main).
+- Distances. d6 (d6 + d6 s'il vise la même cible qu'au round précédent).
+- Lourdes. (encombrantes): d6 + d6  #pas sûr (d6 + d6 + d6 si n'a pas bougé lors
+  de son dernier tour)
+ 
 ## Armures
 - Légère. 1 armure.
 - Moyenne. 2 armure (min FOR: 13, discrétion et nage désavantagées).
 - Lourde. 3 armure (min FOR: 15, discrétion désavantagée, nage impossible).
 
-- Bouclier. 1 main, 1 armure.
+- Bouclier. 1 main, 1 armure. Les manœuvres peuvent s'effectuer sur un 3 au lieu
+  d'un 4.
 - Bouclier lourd. (encombrant) 2 armure.
