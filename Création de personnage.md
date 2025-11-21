@@ -16,7 +16,7 @@ Les héros ont quatre attributs.
 Chaque héros commence avec un point de CHANCE (CHA). La CHA permet de :
 - relancer n'importe quel dé
 - obtenir un bonus temporaire de +5 à un attribut
-- d'ignorer les conséquences négatives de dégâts subis
+- d'infliger les dégâts maximum lors d'une attaque
 
 ## Ascendance
 ### Elfe.

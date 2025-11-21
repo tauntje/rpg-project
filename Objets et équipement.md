@@ -10,6 +10,7 @@ DÉS DE MATÉRIAUX ??
   de son dernier tour)
  
 ## Armures
+Armure a des points à la DH pour pouvoir retirer les dégâts subis ?
 - Légère. 1 armure.
 - Moyenne. 2 armure (min FOR: 13, discrétion et nage désavantagées).
 - Lourde. 3 armure (min FOR: 15, discrétion désavantagée, nage impossible).
