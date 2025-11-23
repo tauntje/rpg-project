@@ -195,44 +195,44 @@ dans leurs propres flammes ou avalé par les ombres qu'ils invoquaient.
 | 6   | Sauvage        |
 
 
-TOUT ÊTRE PEUT LIRE ET UTILISER DES PARCHEMINS MAGIQUES OU DES PIERRES OU MES
-COUILLES. MAIS PAR CONTRE UN CONJURATEUR PEUT UTILISER LIBREMENT LES
-CANALISATEURS AVEC TOUS LES ÉLÉMENTS DE SON ÉCOLE ????
+Un Conjurateur peut utiliser librement la magie de l'école qu'il maîtrise. Pour
+lancer un sort, il faut décider de la forme du sort et de sa puissance. Si vous
+lancez un sort majeur ou miraculeux, résultat de dés allant de 1 à 3 sur un sort
+*amplifié* inflige le total en dégâts à votre END, puis votre VOL. Il est
+impossible d'*amplifier* un sort en portant une amure en métal. Les sorts sont :
 
-### Lancer un sort
-Il faut décider de la forme du sort et lancer un nombre de dés allant de un à
-trois. Lancer plus d'un dé avec un sort *amplifie* le sort. Chaque résultat de
-dés allant de 1 à 3 sur un sort *amplifié* inflige le total en dégâts à votre
-END, puis votre VOL. Il est impossible d'*amplifier* un sort en portant une
-amure en métal.
+- Mineur (1d6). Invoquer une entité pas plus grande qu'un chat, toucher une cible,
+  faire léviter un objet léger, insuffler une puissance magique dans un objet.
+- Majeur (2d6). Invoquer une entité pas plus grande qu'un cheval, toucher deux cibles
+  adjacentes, déplacer un objet de la taille d'une porte
+- Miraculeux (3d6). Invoquer une entité de la taille d'un éléphant, toucher trois
+  cibles adjacentes, dominer un être
 
-#### Petite magie
-Un Conjurateur peut utiliser librement la magie de l'école qu'il maîtrise. Ces
-sorts sont moins puissants que ceux présents dans son école de magie.
-Un sort de magie libre peut : 
-- Invoquer une petite quantité d'énergie (liée à son école de magie) dans sa
-  main, pendant [MAX] rounds
-- Créer un objet de la forme du choix du Conjurateur (pas plus grande qu'un
-  chat) de [MAX] END, durant [NOMBRE] de rounds
-- Se servir de l'école étudiée afin de faire léviter un objet pas plus grand
-  qu'un chat
-Une ne peut affecter une cible que pour 1d6 point d'END. Effectuer une petite
-magie dans une situtation où chaque seconde compte pourrait requérir un test de
-VOL.
+Il est ensuite possible d'utiliser le nombre de dés lancés (N), le résultat
+maximal obtenu (MAX) et la total (TOT) des dés obtenus afin de décrire le
+sortilège en détail. 
+Un sortilège ne pourra jamais durer plus de N rounds, et infliger ou soigner MAX
+dégâts.
 
 ### Écoles de magie
-#### Élementaire
-Vous contrôlez le feu, la terre, l'eau et l'air. Déchaînez des fouets de lave et
-des ouragans sur vos ennemis. Soumettez les lacs et les rivières à votre
-volonté.
+#### Arcanique
+Ce qui vous intéresse par dessus tout, c'est l'énergie. Votre magie se manifeste
+dans un torrent de faisceaux aux teintes froides. Votre puissance
+consumera-t-elle d'abord vos ennemis, ou votre chair ?
 
-#### TODO
+#### Élémentaire
+Feu, glace, foudre émanent du bout de vos doigts. Refroidirez-vous votre verre,
+ou ferez-vous brûler l'humain dans la taverne qui vous regarde d'un air étrange ?
 
-#### TODO
+#### Impie
+Les maladies et la nécrose de la chair pourraient en effrayer plus d'un. Pour
+vous, il s'agit plus d'une étude de la vie. Abattez la peste sur vos ennemis et
+découvrez quels maux les occiront en premier.
 
 #### Ombres
 Vous faites partie des ombres et pouvez les manipuler comme s'il s'agissait
-d'une extension de votre corps. 
+d'une extension de votre corps. Elles vous protègent, et se déferlent sur vos
+ennemis. 
 
 #### Sacrée
 La lumière vous accompagne en tout temps. Servez-vous en pour soutenir vos
@@ -240,26 +240,11 @@ alliés et aveugler vos ennemis. Vos sorts n'infligent pas de dégâts mais
 soignent vos alliés du même montant. 
 
 #### Sauvage
-Votre 
+La nature vous offre son pouvoir. Enracinez vos ennemis sur place, déchainez des
+ouragans sur ceux qui bloquent votre chemin, ou protégez vos alliés en faisant
+pousser un arbre sur le champ de bataille.
 
-#### Formes de sorts
-- Un mur ou une ligne d'une taille de [NOMBRE] mètres carrés (répartis à votre
-  guise), [MAX] END et [MAX] dégâts (si applicable).
-- Une zone pouvant toucher [NOMBRE] cibles adjacentes pour 1d6 dégâts
-  (explosif).
-- Se servir de l'énergie magique de son école comme arme afin qu'un être
-  adjacent subisse [SOMME] dégâts. 
-
-### Concentration
-Vous pouvez maintenir un sort ou un miracle dans le temps à condition que vous ne soyez pas dans une situation stressante.
-Par exemple, il est possible pour un lanceur de sort de maintenir un sort en explorant une ruine ou une zone extérieure à un
-rythme de marche moyen.
-
-Dans une situation stressante, maintenir l'effet d'un sort ou d'un miracle dépend du nombre de dés utilisés pour invoquer l'effet
-surnaturel.
-Maintenir un sort = [NOMBRE] END (puis [NOMBRE] VOL).
-
-### Parchemins et baguettes 
+### Grimoires, parchemins et baguettes 
 La magie la plus destructrice nécessite du temps et des matériaux, ce qui la
 rend difficile à manier au cœur d'une bataille. C'est pour cette raison que les
 meilleurs adeptes de la magie transcrivent et vendent des sorts en parchemins et

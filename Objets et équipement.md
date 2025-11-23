@@ -1,7 +1,9 @@
 ## FOURNITURES
-Les *fournitures* englobent l'équipement d'aventurier classique tel que des rations, une corde, un
-crochet à serrure,... Chaque héros commence l'aventure avec quatre fournitures. Les fournitures se récupèrent lors d'un long repos dans un lieu tel un village où il est possible d'acheter des matériaux. 
-DÉS DE MATÉRIAUX ??
+Les *fournitures* englobent l'équipement d'aventurier classique tel que des
+rations, une corde, un crochet à serrure,... Chaque héros commence l'aventure
+avec quatre fournitures. Les fournitures se récupèrent lors d'un long repos dans
+un lieu tel un village où il est possible d'acheter des matériaux. DÉS DE
+MATÉRIAUX ??
 ## Armes
 - Improvisées. Pied de chaise, lance-pierre,... d6 peut importe le maniement.
 - Normales. d6 (2d6 si une dans chaque main).

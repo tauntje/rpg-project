@@ -290,42 +290,52 @@ Vous avez déjà fait affaire dans la plus grande ville du royaume et savez où 
 
 
 ## Exploits
-Ces techniques différencient les héros du commun des mortels. Elles peuvent êtres activées au prix d'une action ou représentent un bonus passif propre à votre héros. Lorsque vous utilisez un exploit ou que vous bénéficiez de ses effets, vous devez effectuer un test de la statistique liée à
-l'exploit. Si vous échouez, vous ne pouvez plus utiliser cet exploit jusqu'à ce que vous vous
-reposiez.
+Ces techniques différencient les héros du commun des mortels. Elles peuvent êtres
+activées au prix d'une action ou représentent un bonus passif propre à votre
+héros. Lorsque vous utilisez un exploit ou que vous bénéficiez de ses effets,
+vous devez effectuer un test de la statistique liée à l'exploit. Si vous échouez,
+vous ne pouvez plus utiliser cet exploit jusqu'à ce que vous vous reposiez.
 
-1. Charge (FOR). Action.  Si vous vous êtes déplacé d'une zone pour attaquer, votre coup est augmenté.
-2. Atterrissage tonitruant (AGI). Si vous tombez au sol d'au moins un mètre, vous émettez une onde
-   de choc qui fait tomber tous les êtres adjacent à l'endroit où vous atterrissez.
-3. Dans le mille (VOL). Si vous ne bougez pas lors de votre tour, votre attaque à distance est augmentée
-4. Défenseur sans pareil (FOR). Retirez le plus haut dé de dégâts qui vous cible ou
-   qui cible un allié adjacent.
+1. Charge (FOR). Action.  Si vous vous êtes déplacé d'une zone pour attaquer,
+   votre coup est augmenté.
+2. Atterrissage tonitruant (AGI). Si vous tombez au sol d'au moins un mètre, vous
+   émettez une onde de choc qui fait tomber tous les êtres adjacent à l'endroit
+   où vous atterrissez.
+3. Dans le mille (VOL). Si vous ne bougez pas lors de votre tour, votre attaque à
+   distance est augmentée
+4. Défenseur sans pareil (FOR). Retirez le plus haut dé de dégâts qui vous cible
+   ou qui cible un allié adjacent.
 5. Foulée éclair (AGI). Vous pouvez vous déplacer d'une zone après une attaque.
-6. Frappe chirurgicale (AGI). Vous pouvez frapper un membre de votre cible afin de le rendre
-   inutilisable pendant un round.
-7. Frappe stratégique (FOR). Vous pouvez lancer deux fois votre le dé de votre arme lors de votre
-   attaque.
-8. Planification (VOL). Action : vous déterminez une faiblesse de votre cible et permettez à la prochaine
-   attaque qui exploite cette faille d'être augmentée.
-   faiblesse est avantagée.
-9. Ivresse de la victoire (VOL). Lorsque vous vainquez un ennemi, vous récupérez la valeur de
-   votre plus petit dé d'attaque en END.
-10. Impact de bouclier (FOR). Vous pouvez également frapper avec votre bouclier (1d6) lors d'une attaque et faire tomber votre
-    cible au sol si vous obtenez un 4 ou plus.
-11. Désarmement (AGI). Action : vous pouvez désarmer votre cible. Ses attaques sont diminuées jusqu'à ce
-    qu'elle récupère une arme.
-12. Cri de guerre (VOL). Action : les alliés qui entendent votre cri peuvent effectuer une manœuvre gratuitement lors de votre tour.
-13. Frappe aérienne (AGI). Toute attaque que vous effectuez en tombant sur votre cible est 
-    augmentée.
-14. Coup traumatisant (AGI). Action : infligez les dégâts de votre attaque à la VOL de votre cible et
-    forcez-la à immédiatement effectuer un test de morale si elle en est capable.
+6. Frappe chirurgicale (AGI). Vous pouvez frapper un membre de votre cible afin
+   de le rendre inutilisable pendant un round.
+7. Frappe stratégique (FOR). Vous pouvez lancer deux fois votre le dé de votre
+   arme lors de votre attaque.
+8. Planification (VOL). Action : vous déterminez une faiblesse de votre cible et
+   permettez à la prochaine attaque qui exploite cette faille d'être augmentée.
+9. Ivresse de la victoire (VOL). Lorsque vous vainquez un ennemi, vous récupérez
+   la valeur de votre plus petit dé d'attaque en END.
+10. Impact de bouclier (FOR). Vous pouvez également frapper avec votre bouclier
+    (1d6) lors d'une attaque et faire tomber votre cible au sol si vous obtenez
+    un 4 ou plus.
+11. Désarmement (AGI). Action : vous pouvez désarmer votre cible. Ses attaques
+    sont diminuées jusqu'à ce qu'elle récupère une arme.
+12. Cri de guerre (VOL). Action : les alliés qui entendent votre cri peuvent
+    effectuer une manœuvre gratuitement lors de votre tour.
+13. Frappe aérienne (AGI). Toute attaque que vous effectuez en tombant sur votre
+    cible est augmentée.
+14. Coup traumatisant (AGI). Action : infligez les dégâts de votre attaque à la
+    VOL de votre cible et forcez-la à immédiatement effectuer un test de morale
+    si elle en est capable.
 15. Second souffle (VOL). Action : récupérez 1d6 END.
-16. Lancer fulgurant (FOR). Action : lancez une arme de mêlée et infligez des dégâts
-    augmentés si la cible se trouve à une zone de vous.
+16. Lancer fulgurant (FOR). Action : lancez une arme de mêlée et infligez des
+    dégâts augmentés si la cible se trouve à une zone de vous.
 17. Parade (FOR). Conserver
-18. Provocation (VOL). Devenez la nouvelle cible d'une attaque visant un de vos alliés et retirez un dé
-    d'attaque vous ciblant.
-19. Furie (FOR). Dépensez 1 END afin d'effectuer une seconde attaque lors de votre
-    tour.
-20. Attaque Surprise (AGI). La première attaque de tout combat inflige le double des dégâts à votre cible si elle n’est pas au courant de votre présence.
-21. Coup bas (AGI). Relancez un dés d'une attaque et choisissez quel résultat garder.
+18. Provocation (VOL). Devenez la nouvelle cible d'une attaque visant un de vos
+    alliés et retirez un dé d'attaque vous ciblant.
+19. Furie (FOR). Dépensez 1 END afin d'effectuer une seconde attaque lors de
+    votre tour.
+20. Attaque Surprise (AGI). La première attaque de tout combat inflige le double
+    des dégâts à votre cible si elle n’est pas au courant de votre présence.
+21. Coup bas (AGI). Relancez un dés d'une attaque et choisissez quel résultat
+    garder.
+22. Adepte de la magie. Vous pouvez lancez des sorts (cf. magie).
