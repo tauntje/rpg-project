@@ -1,6 +1,8 @@
 # CRÉATION DE PERSONNAGE
-Déterminez tout d'abord le nom et l'histoire de votre personnage. Restez bref. Un point de départ idéal est de dire : "Je suis un
-___ qui ". Le reste de l'histoire de votre personnage est à découvrir lors du jeu.
+Déterminez tout d'abord le nom et l'histoire de votre personnage. Restez bref.
+Un point de départ idéal est de dire : "Je suis un ___ qui ". Le reste de
+l'histoire de votre personnage est à découvrir lors du jeu.
+
 ## Attributs
 Les héros ont quatre attributs.
 - FORCE (FOR). 
@@ -81,148 +83,125 @@ de toute rencontre.
 
 ## Passés
 ### Malfrat
-Une vie ordinaire n'était pas pour vous. Vous n'auriez jamais pu gagner votre vie honnêtement, quand il existe tant d'autres manières créatives de s'enrichir ! La vie ne vaudrait pas la peine d'être vécue sans un petit frisson de risque. Vos méfaits vous ont donné le titre de :
+Une vie ordinaire n'était pas pour vous. Vous n'auriez jamais pu gagner votre
+vie honnêtement, quand il existe tant d'autres manières créatives de s'enrichir
+! La vie ne vaudrait pas la peine d'être vécue sans un petit frisson de risque.
+Vos méfaits vous ont donné le titre de :
 
 #### 1. Cambrioleur     
 Équipement de départ :
 - Matraque de bois (improvisée, d6)
 - Crochets
 - Vêtements sombres et capuche
-Aucune serrure mécanique ne vous résiste si vous disposez d'assez de temps (10 minutes) et de crochets.
+Aucune serrure mécanique ne vous résiste si vous disposez d'assez de temps (10
+minutes) et de crochets.
 
 #### 2. Assassin        
 Équipement de départ :
-- Deux lames (d8)
+- Deux lames (d6)
 - Armure de cuir (+1 armure)
-- Poison paralysant (cible ne peut ni bouger ou attaquer pendant 1d4 rounds) ou nécrosant (3 dégâts pendant 1d4 rounds)
-Vous trouvez facilement des contacts avec le monde du crime dans les grandes villes.
+- Poison paralysant (cible ne peut ni bouger ou attaquer pendant 1d4 rounds) ou
+  nécrosant (3 dégâts pendant 1d4 rounds) 
+Vous trouvez facilement des contacts avec le monde du crime dans les grandes
+villes.
 
 #### 3 Faussaire       
 Équipement de départ :
 - Trousse de maquillage
 - Vêtements distingués
 - Matériel de calligraphie
-Avec assez de temps (une garde), vous pouvez vous faire passer pour quelqu'un d'une stature similaire à la vôtre, ou imiter un document officiel.
+Avec assez de temps (une garde), vous pouvez vous faire passer pour quelqu'un
+d'une stature similaire à la vôtre, ou imiter un document officiel.
 
-#### 4 Saboteur        
+#### 4 Pirate          
 Équipement de départ :
-- Masse d'arme (lourde, 2d8)
-- Armure de fer improvisée (+2 armure)
-- 1d4 Grenade (explosif, 1d12)
-Vous avez une connaissance approfondie des armes de sièges ainsi que des points faibles de tout bâtiment.
-
-#### 5 Pirate          
-Équipement de départ :
-- Sabre (1d8)
+- Sabre (1d6)
 - Tenue en tissu dépareillés, chapeau tricorne
-- Pistolet à silex (1 / rencontre, 2d8)
+- Pistolet à silex (1 / rencontre, 2d6)
 Vous ne pouvez pas vous perdre en mer ou si le ciel est dégagé.
-
-#### 6 Contrebandier   
-Équipement de départ :
-- Arbalète (d8)
-- Armure de cuir (+1 armure)
-- Une monture pouvant porter 6 objets
-Vous repérez facilement s'il y a un marché noir dans une ville ou un village. 
 
 ### Conjurateur
 Un claquement de vos doigt produit plus de merveilles que ce qu'un citoyen
-ordinaire ne pourrait voir en une vie. Vous naviguez délicatement le long
-chemin de la vie d'un conjurateur. Votre magie vous emportera-t-elle dans son
-torrent de puissance ?
-Votre magie provient de (d6) :
+ordinaire ne pourrait voir en une vie. Vous naviguez délicatement le long chemin
+de la vie d'un conjurateur. Votre magie vous emportera-t-elle dans son torrent de
+puissance ? Votre magie provient de (d6) :
 
 #### 1. Une entité mystérieuse avec laquelle vous avez conclu un pacte
 Équipement de départ : 
-- Choisissez une école de magie, vos sorts sont des tatouages ou des cicatrices sur votre corps
+- Choisissez une école de magie, vos sorts sont des tatouages ou des cicatrices
+  sur votre corps
 - Armure de de fer (+2A)
-- Symbole de votre entité (au choix)
+- Symbole de votre entité (au choix) 
 Ceux qui ont conclu des pactes similaires au vôtre sont considérés comme maudits
 et recherchés par de nombreux chasseurs de prime.
 
 #### 2. De votre foi et d'un don fait par votre divinité
 Équipement de départ : 
-- Choisissez une école de magie parmi : sacrée ou impie
-- Masse de bois (d8)
+- Choisissez une école de magie parmi : sacrée, ombres ou sauvage
+- Masse de bois (d6)
 - Tenue de cérémonie
 Vous êtes toujours accueilli par ceux qui partagent votre foi. Vous obtenez la
-sympathie d'autres êtres éclésiastiques.
+sympathie d'autres êtres ecclésiastiques.
 
 #### 3. D'une étude approfondie auprès d'un mentor
-- Où l'avez-vous trouvé ? Est-il toujours en vie ? Comment vous-a-t-il enseigné ? 
 Équipement de départ : 
-- Choisissez une école de magie parmi  
-- 
+- Choisissez une école de magie parmi : élémentaire, arcanique ou illusion
+- Bâton de marche (normale)
+- Robe d'érudit
+Vous connaissez les codes des académiciens et intellectuels. L'histoire de votre
+contrée d'origine n'a aucun secret pour vous.
 
 #### 4. La magie coule dans vos veines
-- Équipement de départ : 
-- Choisissez une école de magie parmi : 
-Quelles sont vos origines ? Comment la magie s'est-elle manifestée la première
-fois ? Êtes vous le seul de votre généalogie à avoir ces pouvoirs ? |
-
-#### 5. De la nature et de la puissance sauvage. 
-- De quel environnement tirez-vous vos pouvoirs ? Faites-vous partie d'un cercle ? Est-ce que l'équilibre de la nature influence votre puissance ?
-- Équipement de départ : 
-- Choisissez une école de magie parmi : 
-
-#### 6 Des esprits et des âmes perdues. 
-- Les voyez-vous au quotidien ? Comment vous offrent-elle vos pouvoirs ? Êtes-vous un membre du royaume des morts ?
-- Équipement de départ : 
-- Choisissez une école de magie parmi : 
+Équipement de départ : 
+- Choisissez une école de magie parmi : élémentaire, arcanique ou sauvage
+- Épée courte (normale)
+- Armure de cuir (1A)
+Bla bla bla bla bla
 
 ### Guerrier
-Lors de vos plus grand faits d'armes, vous étiez :
+Adepte de l'art du combat, de la guerre et d'autres esbroufes, vous avez toujours
+connu la vie avec une arme à vos cotés. Que ce soit pour l'honneur, le gain
+personnel, ou l'amour du risque, vous vous êtes démarqué en tant que :
 
 #### 1. Archer
 Équipement de départ :
-- Arc (1d8)
-- 2 dagues (1d8)
+- Arc (1d6)
+- 2 dagues (1d6)
 - Grappin
 Vous attaquez toujours en premier si vous commencez un combat à distance.
 
-#### 2. Artificier
-Équipement de départ :
-- Marteau et tournevis
-- Gants chargés (insufflés d'une rune électrique, 1d6)
-- Armure en métal (2A)
-Les assemblages et autres outils animés par la magie n'ont pas de secrets pour vous.
+#### 6. Paladin
+Équipement de départ : 
+- Masse d'arme (lourde)
+- Un écrit contenant votre serment (arrangez-vous avec le MJ)
+- Un fidèle destrier
+Tant que vous maintenez le serment que vous avez prêté, les dégâts de votre arme
+sont magiques et ignorent l'armure ennemie.
 
 #### 3. Barbare
 Équipement de départ :
-- Hache à deux mains (3d8, encombrante)
+- Hache à deux mains (3d6, encombrante)
 - Viande séchée
 - Bolas (3 d6, portée moyenne)
 Vous récupérez toujours un point de force lorsque vous dormez à la belle étoile.
 
 #### 4. Chevalier
 Équipement de départ : 
-- Épée à une main (d8) 
+- Épée à une main (d6) 
 - Bouclier (1A)
 - Armure décorée du blason de votre maison (1A).
-Vous êtes connu dans les villages du royaume et l'hospitalité vous est toujours offerte pour une nuit.
-
-#### 5. Mercenaire
-Équipement de départ : 
-- Une gigantesque arme dans votre dos (3d8 encombrante)
-- Trois couteaux de lancer (1d6)
-- Armure en cuir (1A)
-Vous avez combattu dans de nombreuses contrées et pouvez parler de manière rudimentaire toute langue étrangère.
-
-#### 6. Paladin
-Équipement de départ : 
-- Masse d'arme (3d8, encombrante)
-- Un écrit contenant votre serment (arrangez-vous avec le MJ)
-- Un fidèle destrier
-Tant que vous maintenez le serment que vous avez prêté, les dégâts de votre arme
-sont magiques et ignorent l'armure ennemie.
+Vous êtes connu dans les villages du royaume et l'hospitalité vous est toujours
+offerte pour une nuit.
 
 ### Spécialiste
-Vous exerciez votre métier et vos arts dans la profession suivante :
+L'aventure est votre second amour, après l'art et l'artisanat ! Vous avez
+travaillé jour et nuit afin d'être le meilleur de votre profession. Vous avez
+offert vos services en tant que :
 
 ####  1  Alchimiste
 Équipement de départ : 
 - Kit d'alchimie
-- Dague (d8)
+- Dague (d6)
 - Tenue de cuir (1A) tachée et brûlée
 Avec assez de temps (une garde), vous pouvez analyser et identifier tous types
 de potions.
@@ -231,37 +210,24 @@ de potions.
 Équipement de départ :
 - Instrument de musique (votre choix)
 - Vêtements distingués
-- Arbalète (1d8)
-Vous excellez dans tout ce qui requiert la lecture à haute voix, le chant, la danse, ou la diplomatie.
+- Arbalète (1d6)
+Vous excellez dans tout ce qui requiert la lecture à haute voix, le chant, la
+danse, ou la diplomatie.
 
 ####  3  Chasseur  
 Équipement de départ :
 - Piège à ours (1d12 si tendu)
-- Arc (1d8)
+- Arc (1d6)
 - Armure de cuir (1A)
-Vous reconnaissez les cris, les traces et le pelage de toute bête vivant en forêt ou en montagne.
+Vous reconnaissez les cris, les traces et le pelage de toute bête vivant en
+forêt ou en montagne.
 
-####  4  Chirurgien
+#### 4. Artificier
 Équipement de départ :
-- Bandages
-- 3 Potions de soin 
-- Ciseaux (1d6) 
-Avec assez de temps (10 minutes), les soins que vous prodiguez restaurent la quantité maximale du dé.
-
-####  5  Forgeron  
-Équipement de départ :
-- Marteau de forge (1d6)
-- Pince à métal
-- Objet forgé précieux (votre choix)
-Avec du temps (une garde) et l'accès à une forge, vous pouvez créer n'importe quel objet ordinaire de la taille de votre bras.
-
-####  6  Marchand  
-Équipement de départ :
-- Grand sac (+2 emplacement d'inventaire)
-- Arbalète (1d8)
-- Une potion aléatoire (voir alchimie)
-- Votre dernière trouvaille (votre choix)
-Vous avez déjà fait affaire dans la plus grande ville du royaume et savez où les meilleurs clients se situent.
+- Marteau et tournevis
+- Gants chargés (insufflés d'une rune électrique, 1d6)
+- Armure en métal (2A)
+Les assemblages et autres outils animés par la magie n'ont pas de secrets pour vous.
 
 ## TALENTS
 
@@ -269,7 +235,7 @@ Vous avez déjà fait affaire dans la plus grande ville du royaume et savez où 
 | ---- | ------------------------------ |
 | 1    | Grimpeur à toute épreuve       |
 | 2    | Négociateur de prix            |
-| 3    | Savant spécialisé en ___       |
+| 3    | Chirurgien                     |
 | 4    | Herboriste                     |
 | 5    | Connaît la haute société       |
 | 6    | Jongleur                       |
@@ -338,4 +304,3 @@ vous ne pouvez plus utiliser cet exploit jusqu'à ce que vous vous reposiez.
     des dégâts à votre cible si elle n’est pas au courant de votre présence.
 21. Coup bas (AGI). Relancez un dés d'une attaque et choisissez quel résultat
     garder.
-22. Adepte de la magie. Vous pouvez lancez des sorts (cf. magie).

@@ -1,12 +1,12 @@
 # Règles
 ## Attributs
-Les héros possèdent quatre attributs 
-FORCE (FOR). Votre capacité à résister aux dégâts et à effectuer des prouesses physiques telles que :
+Les héros possèdent cinq attributs 
+VIGUEUR (VIG). Votre capacité à résister aux dégâts et à effectuer des prouesses physiques telles que :
 - Nager à contre courant.
 - Résister au froid mordant d'une tempête de neige.
 - Enfoncer une porte, plier une barre de fer.
 
-AGILITÉ (AGI). Votre capacité à utiliser votre corps et votre équipement précisément et minutieusement pour :
+ADRESSE (ADR). Votre capacité à utiliser votre corps et votre équipement précisément et minutieusement pour :
 - Traverser une allée discrètement sans attirer l'attention, se cacher en un clin d'œil.
 - Voler ou placer un objet sur un autre être, ou effectuer un tour de passe-passe.
 - Effectuer une acrobatie, escalader un mur escarpé.
@@ -17,13 +17,16 @@ VOLONTÉ (VOL). Votre forte mentale, sagesse et esprit utilisés pour :
 - Lancer des sorts, et résister à l'amplification des sorts
 
 ENDURANCE (END). Votre capacité à encaisser ou esquiver des attaques avant de
-subir de sérieux dégâts. CHANCE. Permet de puiser dans vos dernières ressource
+subir de sérieux dégâts. 
+CHANCE. Permet de puiser dans vos dernières ressource
 afin d'éviter toutes les conséquences d'un jet de dés ou de maux subis.
 
-FOR, AGI et DEX ne peuvent pas dépasser 18. END ne peut pas dépasser 15.
+Aucun attribut ne peut dépasser la valeur de 18.
+
 ## Talents
 Les talents sont des aptitudes propres à chaque héros. Ils sont liés à un
 attribut et représentent les aspects précis dans lesquels un héros excelle. 
+
 ## Tests
 Lorsqu'une situation dont l'issue est incertaine se présente, effectuez un
 *test* lié à l'un de vos *attributs*. Pour ce faire, lancez un d20 et comparez
@@ -38,8 +41,8 @@ Lorsque vous êtes dans une position de force pour effectuer votre test, le MJ
 pourrait vous permettre d'effectuer un test avec avantage (ou un test avantagé).
 Dans ce cas, lancez deux d20 et gardez le résultat le plus bas. Si au contraire
 vous êtes dans une situation particulièrement délicate, vous pourriez être amené
-à effectuer un jet avec désavantage (ou un test désavantagé). Dans ce cas,
-lancez deux d20 et gardez le résultat le plus haut. Les *avantages* et les
+à effectuer un jet avec désavantage (ou un test désavantagé). Dans ce cas, lancez
+deux d20 et gardez le résultat le plus haut. Les *avantages* et les
 *désavantages* s'annulent de manière équivalente. Vos talents vous octroient
 toujours au moins un avantage, en fonction de leur degré de maîtrise. Soyez
 créatif lors d'un test, décrivez comment l'un de vos talent peut impacter vos
@@ -165,9 +168,9 @@ l'END. Une fois l'END épuisée, les dégâts sont *critiques* et retirés d'un
 
 ## Guerres et bataillons
 Une vingtaine de combattants représentent un *bataillon*. Les *bataillons*
-possèdent 4 *attritbuts*. FOR, AGI, VOL et END. Toute attaque d'un *bataillon*
-contre une cible seule est *améliorée* et *explosives*. Toute attaque d'un être
-seul contre un bataillon est *diminuée*. Certaines créatures légendaires
+possèdent 4 attributs. FOR, AGI, VOL et END. Toute attaque d'un *bataillon*
+contre une cible seule est améliorée et explosives. Toute attaque d'un être
+seul contre un bataillon est diminuée. Certaines créatures légendaires
 nécessitent un bataillon afin d'égaliser les chances de bataille. 
 
 Un *bataillon* qui n'a plus d'END risque de sérieux dégâts. 
@@ -176,7 +179,9 @@ Un *bataillon* qui n'a plus d'END risque de sérieux dégâts.
 - À 0 VOL le bataillon est brisé moralement et fuit sauf pour 1d4 combattants.
 
 ### Créer un bataillon
-Chaque bataillon commence avec 10 END, 10 FOR, 10 AGI et 10 VOL et inflige 1d8 dégâts. Vous pouvez ensuite ajouter un point dans un attribut, ou incrémenter la taille du dé de dégâts pour 100 pièces d'or par augmentation.
+Chaque bataillon commence avec 10 END, 10 FOR, 10 AGI et 10 VOL et inflige 1d8
+dégâts. Vous pouvez ensuite ajouter un point dans un attribut, ou incrémenter la
+taille du dé de dégâts pour 100 pièces d'or par augmentation.
 
 ## Magie
 La magie représente le surnaturel ou le sacré qui a épousé une forme dans le
@@ -184,22 +189,11 @@ monde physique. Si la magie représente une puissance destructrice sans pareils,
 son utilisation a toutefois un coût. Nombreux conjurateurs ont été emportés
 dans leurs propres flammes ou avalé par les ombres qu'ils invoquaient.
 
-
-| d6  | École de magie |
-| --- | -------------- |
-| 1   | Élémentaire    |
-| 2   | Illusion       |
-| 3   | Impie          |
-| 4   | Ombres         |
-| 5   | Sacrée         |
-| 6   | Sauvage        |
-
-
 Un Conjurateur peut utiliser librement la magie de l'école qu'il maîtrise. Pour
 lancer un sort, il faut décider de la forme du sort et de sa puissance. Si vous
-lancez un sort majeur ou miraculeux, résultat de dés allant de 1 à 3 sur un sort
-*amplifié* inflige le total en dégâts à votre END, puis votre VOL. Il est
-impossible d'*amplifier* un sort en portant une amure en métal. Les sorts sont :
+lancez un sort majeur ou miraculeux, résultat de dés allant de 4 à 6 sur un sort
+inflige le un dégât à votre END, puis votre VOL. Il est impossible d'amplifier un
+sort en touchant du métal. Les sorts sont :
 
 - Mineur (1d6). Invoquer une entité pas plus grande qu'un chat, toucher une cible,
   faire léviter un objet léger, insuffler une puissance magique dans un objet.
@@ -209,25 +203,32 @@ impossible d'*amplifier* un sort en portant une amure en métal. Les sorts sont 
   cibles adjacentes, dominer un être
 
 Il est ensuite possible d'utiliser le nombre de dés lancés (N), le résultat
-maximal obtenu (MAX) et la total (TOT) des dés obtenus afin de décrire le
-sortilège en détail. 
-Un sortilège ne pourra jamais durer plus de N rounds, et infliger ou soigner MAX
+maximal (MAX) des dés obtenus afin de décrire le sortilège en détail. Un
+sortilège ne pourra jamais durer plus de N rounds, et infliger ou soigner MAX
 dégâts.
+
+Exemple : Brock le mage veut lancer une boule de feu et toucher 2 ennemis
+adjacents. Pour ce faire, il lance 2 dés et obtient un 3 et un 5. Brock peut
+toucher les 2 (N) adversaires pour 5 (MAX) dégâts, et subira 1 point de dégâts à
+la VOL. Dans cet exemple, Brock aurait également pu : 
+- Toucher 5 adversaires pour 2 dégâts,
+- Toucher un adversaire pour 5 dégâts et maintenir la boule de feu sur place
+  pendant 2 tours,
+- Bruler un adversaire afin qu'il subisse 5 dégâts chaque tour pendant 2 rounds.
 
 ### Écoles de magie
 #### Arcanique
 Ce qui vous intéresse par dessus tout, c'est l'énergie. Votre magie se manifeste
-dans un torrent de faisceaux aux teintes froides. Votre puissance
-consumera-t-elle d'abord vos ennemis, ou votre chair ?
+dans un torrent de faisceaux aux teintes froides. 
 
 #### Élémentaire
 Feu, glace, foudre émanent du bout de vos doigts. Refroidirez-vous votre verre,
 ou ferez-vous brûler l'humain dans la taverne qui vous regarde d'un air étrange ?
 
-#### Impie
-Les maladies et la nécrose de la chair pourraient en effrayer plus d'un. Pour
-vous, il s'agit plus d'une étude de la vie. Abattez la peste sur vos ennemis et
-découvrez quels maux les occiront en premier.
+#### Illusoire
+Votre magie ne blesse pas directement, mais permet de faire voir et entendre des
+choses qui ne sont pas réellement là. Lorsque l'effet se dissipe, vos cibles
+peuvent réaliser qu'elles ont été bernées.
 
 #### Ombres
 Vous faites partie des ombres et pouvez les manipuler comme s'il s'agissait
@@ -235,14 +236,15 @@ d'une extension de votre corps. Elles vous protègent, et se déferlent sur vos
 ennemis. 
 
 #### Sacrée
-La lumière vous accompagne en tout temps. Servez-vous en pour soutenir vos
-alliés et aveugler vos ennemis. Vos sorts n'infligent pas de dégâts mais
-soignent vos alliés du même montant. 
+La lumière vous accompagne en tout temps. Servez-vous en pour soutenir vos alliés
+et aveugler vos ennemis. Vos sorts ne peuvent pas infliger de dégâts, mais
+peuvent soignent vos alliés à la place.
 
 #### Sauvage
-La nature vous offre son pouvoir. Enracinez vos ennemis sur place, déchainez des
-ouragans sur ceux qui bloquent votre chemin, ou protégez vos alliés en faisant
-pousser un arbre sur le champ de bataille.
+La nature est de votre coté et vous comprenez les animaux. Vous pouvez vous
+transformer en l'animal de votre choix. Lorsque vous le faites, vous pouvez
+ajouter N et MAX à deux de vos attributs maximum. Vous ne pouvez vous transformer
+que si vous avez de l'END.
 
 ### Grimoires, parchemins et baguettes 
 La magie la plus destructrice nécessite du temps et des matériaux, ce qui la

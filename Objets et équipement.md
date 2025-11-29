@@ -5,10 +5,9 @@ avec quatre fournitures. Les fournitures se récupèrent lors d'un long repos da
 un lieu tel un village où il est possible d'acheter des matériaux. DÉS DE
 MATÉRIAUX ??
 ## Armes
-- Improvisées. Pied de chaise, lance-pierre,... d6 peut importe le maniement.
+- Improvisées. Pied de chaise, lance-pierre,... d4 peut importe le maniement.
 - Normales. d6 (2d6 si une dans chaque main).
-- Distances. d6 (d6 + d6 s'il vise la même cible qu'au round précédent).
-- Lourdes. (encombrantes): d6 + d6  #pas sûr (d6 + d6 + d6 si n'a pas bougé lors
+- Lourdes. (encombrantes): d6 + d6  --pas sûr (d6 + d6 + d6 si n'a pas bougé lors
   de son dernier tour)
  
 ## Armures
